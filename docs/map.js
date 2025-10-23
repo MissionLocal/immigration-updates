@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     container: 'map',
     style: 'mapbox://styles/mlnow/cm2tndow500co01pw3fho5d21', // keep your template style
     center: [-122.4243266, 37.7247071],  
-    zoom: 10
+    zoom: 9.5
   });
 
   // Helpers
@@ -86,7 +86,7 @@ document.addEventListener('DOMContentLoaded', async () => {
       source: 'events',
       paint: {
         'circle-radius': ['interpolate', ['linear'], ['zoom'], 10, 3.5, 14, 6.5],
-        'circle-color': '#007DBC',
+        'circle-color': '#f67cf6',
         'circle-stroke-color': '#ffffff',
         'circle-stroke-width': 1
       }

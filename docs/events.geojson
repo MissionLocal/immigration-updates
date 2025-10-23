@@ -2,6 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "event": "protest", "date": "10/23/2025", "time": "7:00:00 AM", "description": "A couple dozen people gathered to protest the arrival of CBP officers in the Bay Area. ", "location": "Alameda Coast Guard Island", "address": "Coast Guard Island, Bldg 21, Rm 209, Alameda, CA 94501", "Latitude": 37.7819983, "Longitude": -122.2490817 }, "geometry": { "type": "Point", "coordinates": [ -122.2490817, 37.7819983 ] } }
+{ "type": "Feature", "properties": { "event": "Protest at Alameda Cost Guard Island", "date": "10/23/2025", "time": "7:00 AM", "description": "A couple dozen people gathered to protest the arrival of CBP officers in the Bay Area. ", "address": "Coast Guard Island, Bldg 21, Rm 209, Alameda, CA 94501", "Latitude": 37.7819983, "Longitude": -122.2490817 }, "geometry": { "type": "Point", "coordinates": [ -122.2490817, 37.7819983 ] } }
 ]
 }
